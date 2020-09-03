@@ -1,8 +1,8 @@
 ### Hello! <img alt="Waving hand emoji" src="https://github.com/OfficialMarinho/OfficialMarinho/blob/master/waving-hand-emoji-animated.gif?raw=true" width="25px">
 
-:blush: Hey there, we are BureauTech and we are a student group from [FATEC](https://fatecsjc-prd.azurewebsites.net/)<br/>
+:blush: Hey there, we are BureauTech and we are a student group from [FATEC](https://fatecsjc-prd.azurewebsites.net/)<br/><br/>
 
-Here are some informations about us: <br/>
+Here are some informations about us: <br/><br/>
 
 Ana Clara [![GitHub Badge](https://img.shields.io/github/followers/anaclaragraciano?label=anaclaragraciano&style=for-the-badge&color=black&link=https://github.com/anaclaragraciano)](https://github.com/anaclaragraciano)<br/>
 
@@ -22,8 +22,8 @@ Marcelo Uchoas [![GitHub Badge](https://img.shields.io/github/followers/marcelou
 
 
 
-
-
+<br/><br/><br/><br/><br/>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
 
